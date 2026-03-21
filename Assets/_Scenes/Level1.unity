@@ -23993,6 +23993,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 302120553351511620, guid: 4f979e67e5f8f2646a786889f86fef12, type: 3}
+      propertyPath: available
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4648029958354248235, guid: 4f979e67e5f8f2646a786889f86fef12, type: 3}
       propertyPath: m_Name
       value: FPSPlayer
@@ -24035,6 +24039,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4913556170434870231, guid: 4f979e67e5f8f2646a786889f86fef12, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5846353965396329244, guid: 4f979e67e5f8f2646a786889f86fef12, type: 3}
+      propertyPath: available
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -37938,6 +37946,10 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2968634993845223565, guid: 158a9da5b0d850843bcf2a252799da39, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: 9775b0b356ac74b4c862fbf6c828ddb5, type: 3}
     - target: {fileID: 3089880552893166599, guid: 158a9da5b0d850843bcf2a252799da39, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
       value: MainMenu

@@ -162,10 +162,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   giblets:
   - {fileID: 6155426268924199387, guid: 4b9096c554bc1ae4cb18076d05fecac4, type: 3}
-  - {fileID: 3469785301326754146, guid: 7a72dc3ebd291504d8f3606960394542, type: 3}
+  - {fileID: 4323085911394242862, guid: 934d8ba868a1a4c4e9a60a90f08d90d3, type: 3}
   - {fileID: 4323085911394242862, guid: 934d8ba868a1a4c4e9a60a90f08d90d3, type: 3}
   - {fileID: 5423024292409407709, guid: cc2fc0c5b0219f64589b6680e4b4b6f2, type: 3}
-  - {fileID: 6488097458940939697, guid: 881343b3202866d4091a2c255c087792, type: 3}
+  - {fileID: 5423024292409407709, guid: cc2fc0c5b0219f64589b6680e4b4b6f2, type: 3}
   numberToSpawn: 10
   minimumForce: 20
   maximumForce: 40
